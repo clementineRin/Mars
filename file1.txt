@@ -2,3 +2,4 @@ hello
 newline
 world
 hello
+halo
